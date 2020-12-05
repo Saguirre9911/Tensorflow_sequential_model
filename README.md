@@ -10,6 +10,8 @@ Se realizan dos ejemplos de redes neuronales, una MLP y una CNN
 Se muestra el uso de la documentación y las opciones que se pueden aplicar con esta libería 
 ## Método Fit
 Opciones de entrenamiento y evaluación de los algoritmos entrenados.
+## Método evaluate
+Evaluación del modelo generado y entrenado 
 
 
 # CANAL DE  YOUTUBE PAL INGENIERO:
